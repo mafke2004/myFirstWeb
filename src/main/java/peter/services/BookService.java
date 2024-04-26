@@ -1,10 +1,10 @@
-package services;
+package peter.services;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import models.Book;
-import repositories.BookRepository;
+import peter.models.Book;
+import peter.repositories.BookRepository;
 
 import java.util.List;
 

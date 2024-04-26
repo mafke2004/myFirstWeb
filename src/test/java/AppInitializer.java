@@ -1,4 +1,4 @@
-package peter;
+package test.java;
 
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
